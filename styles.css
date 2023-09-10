@@ -1,0 +1,15 @@
+body {
+    height: 100%;
+}
+
+.eyuh {
+    font-size: xx-large;
+}
+
+#eyuh {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+    flex-direction: column;
+}
